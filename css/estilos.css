@@ -606,6 +606,9 @@ nav > a:hover{
         grid-template-columns: 1fr;
         gap: 15px 10px;
     }
+        #quinta-seccion-izq{
+        margin: auto;
+    }
 
     .mapaa{
         width: 90%;
