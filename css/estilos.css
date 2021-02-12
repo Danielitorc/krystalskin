@@ -589,14 +589,12 @@ nav > a:hover{
 
     /* Quinta seccion */
 
-    #quinta-seccion{
-        width: 90%;
-        margin: auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 2rem;
-        padding-bottom: 2rem;
+    #quinta-seccion-der{
+        flex: 1;
+        display: grid;
+        grid-template-rows: (2, 1rf);
+        grid-template-columns: 1fr;
+        gap: 15px 10px;
     }
 
 
