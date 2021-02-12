@@ -599,6 +599,13 @@ nav > a:hover{
     }
 
 
+    #quinta-seccion-izquierda {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: -2%;
+    }
 
     #quinta-seccion-der{
         flex: 1;
