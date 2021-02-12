@@ -367,16 +367,6 @@ nav > a:hover{
     margin-top: 30px;
 }
 
-/*----------*/
-   #quinta-seccion-izquierda{
-        margin: auto;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        padding-top: 2rem;
-        padding-bottom: 2rem;
-    }
-/* -----------*/
 #quinta-seccion-der .capa-b h2{
     color: seashell;
     transition: all 500ms ease-out;
@@ -608,6 +598,8 @@ nav > a:hover{
         padding-top: 2rem;
         padding-bottom: 2rem;
     }
+
+
 
     #quinta-seccion-der{
         flex: 1;
